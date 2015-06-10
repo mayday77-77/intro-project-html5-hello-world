@@ -1,0 +1,48 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+} 
+
+
+/*
+* {
+
+	outline: 1px solid red !important;
+}
+*/
+
+.app {
+
+	display: -webkit-flex;
+	display: flex;
+	
+
+}
+
+.screenshot {
+	max-width: 460px;
+	margin-right: 60px;
+
+}
+
+.description{
+
+	max-width: 550px;
+	color: #7C8B88;
+	font-size: xx-large;
+	font-family: "Open Sans", sans-serif;
+}
+
+.title{
+	background-color: #33BEBE;
+ 	font-size: 3em;
+ 	color: white;
+  	font-weight: lighter;
+  	font-family: sans-serif;
+  	padding-top: 1em;
+  	padding-left: 20px;
+  	margin-bottom: 60px;
+
+}
